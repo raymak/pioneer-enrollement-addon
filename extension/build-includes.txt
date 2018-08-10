@@ -1,0 +1,8 @@
+bootstrap.js
+chrome.manifest
+install.rdf
+StudyUtils.jsm
+Config.jsm
+RecentWindow.jsm
+content
+skin
